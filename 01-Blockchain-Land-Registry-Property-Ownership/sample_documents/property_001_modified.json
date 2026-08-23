@@ -1,0 +1,9 @@
+{
+  "propertyId": "P001",
+  "surveyNumber": "SYN-2026-001",
+  "dummyOwner": "0x0000000000000000000000000000000000000001",
+  "location": "Bardhaman Demo Zone",
+  "area": 1250,
+  "propertyType": "Residential",
+  "note": "Synthetic educational data only. Not a legal land record."
+}
