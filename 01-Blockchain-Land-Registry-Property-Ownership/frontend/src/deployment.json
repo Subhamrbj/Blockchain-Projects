@@ -1,0 +1,18 @@
+{
+  "contractAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "chainId": 31337,
+  "rpcUrl": "http://127.0.0.1:8545",
+  "deployedAt": "2026-08-23T05:22:43.588Z",
+  "accounts": {
+    "admin": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "registrar": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "surveyor": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ownerA": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "buyerB": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65"
+  },
+  "sampleProperty": {
+    "id": 1,
+    "number": "P001",
+    "documentHash": "0xc739d65f175310d99799f5aea8676ae01d4d75842dc7e2c4ce9bd5e8322eac49"
+  }
+}
